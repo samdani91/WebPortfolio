@@ -337,7 +337,7 @@ section{
     position: absolute;
     border-radius: 10px;
     transform: scaleX(0);
-    animation: animate 1s 1s  ease forwards;
+    animation: animates 1s 1s  ease forwards;
     transform-origin: left;
 }
 
