@@ -200,9 +200,13 @@ body
 .sub-title{
     text-align: center;
     font-size: 60px;
+    
     padding-bottom: 70px;
 }
 
+#skill{
+    padding-top: 70px;
+}
 .sub-title span{
     color: #0ef;
 }
