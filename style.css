@@ -163,6 +163,7 @@ body
     /* max-width: 630px;*/
 
     border-radius: 50%;
+    border: 8px double #0ef;
 }
 
 .about-text h2{
